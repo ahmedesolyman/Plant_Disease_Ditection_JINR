@@ -1,0 +1,1 @@
+# Plant_Disease_Ditection_JINR

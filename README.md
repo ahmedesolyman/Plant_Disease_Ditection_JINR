@@ -1,5 +1,5 @@
 # Plant_Disease_Ditection_JINR
-This repository contains the code for the RFBR project 18-07-00829
+This repository contains the code for the RFBR project (https://www.rfbr.ru/rffi/ru/project_search/o_2071350)
 
 "Development of massive parallel approaches for farmers complaints through text and images using high performance computing"
 

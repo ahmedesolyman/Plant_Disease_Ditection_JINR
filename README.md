@@ -8,7 +8,10 @@ Plants disease detection is very popular field of study. Many promising results 
 # Installation
 1-install all required packages;
 2-clone PDD using git:
+
 !git clone https://github.com/ahmedesolyman/Plant_Disease_Ditection_JINR.git
+
 3-then, cd to the pdd_new folder and feel free to use it:
+
 cd Plant_Disease_Ditection_JINR
 
